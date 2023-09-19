@@ -1,0 +1,28 @@
+section.top-header {
+    display: flex;
+    padding: 20px;
+    background-color: chartreuse;
+    justify-content: space-between;
+    width: 850px;
+    height: 0px;
+    align-items: center;
+    font-size: 13px;
+}
+
+.top-header-left {
+    display: flex;
+    padding: 5px;
+}
+
+.time {
+    margin-left: 12px;
+}
+
+.top-header-right {
+    display: flex;
+    align-items: center;
+}
+
+.contact {
+    margin-right: 12px;
+}
